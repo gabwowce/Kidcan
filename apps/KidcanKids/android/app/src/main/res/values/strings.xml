@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kidcan</string>
+     <string name="kidcan_accessibility_description">
+        Kidcan helps you focus by gently blocking distracting apps during focus sessions.
+    </string>
+    <string name="kidcan_accessibility_summary">
+        Allow Kidcan to see which app is open and show a soft focus overlay.
+    </string>
+</resources>

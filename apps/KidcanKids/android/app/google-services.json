@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364070931094",
+    "project_id": "kidcan-child",
+    "storage_bucket": "kidcan-child.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364070931094:android:0ddd032416fb4e8b8cd0b7",
+        "android_client_info": {
+          "package_name": "com.kidcan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-0ItBB4J0PcvJl9UngBHz5ZNUCP5RhPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
