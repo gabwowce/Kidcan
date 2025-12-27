@@ -1,0 +1,8 @@
+{
+  "name": "kidcan-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
